@@ -74,4 +74,11 @@ li
 		margin-top:16%;
 	}	
 
+a.solid {
+	border-style: solid;
+	background-color:#ECD6A8;
+}
+
+
+
 
